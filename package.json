@@ -1,0 +1,15 @@
+{
+  "name": "pdfgenerator",
+  "version": "1.0.0",
+  "description": "testes para criar pdfs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raphael Silvestre",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "html-pdf": "^2.2.0"
+  }
+}
